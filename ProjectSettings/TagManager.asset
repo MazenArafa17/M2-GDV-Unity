@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Target
+  - combo_1
+  - combo_2
+  - Ball
+  - combo_3
   layers:
   - Default
   - TransparentFX
